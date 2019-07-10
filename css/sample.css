@@ -1,0 +1,84 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+header{
+  height: 20px;
+  background-color: black;
+}
+
+body {
+  text-align: center;
+}
+
+
+.main-header {
+  padding-bottom: 15%;
+  width: 100%;
+  background-size: cover;
+  background-image: url("../images/header.jpg");
+  background-attachment: fixed;
+}
+
+/* From here */
+header {
+  background-color: black;
+  
+}
+.right{
+  float: right;
+}
+.left{
+  float: left;
+}
+
+header ul {
+}
+
+header ul a {
+
+}
+
+header li {
+  display: inline-block;
+  
+
+}
+
+header ul:after {
+
+
+}
+/* This is the implementation of the header part */
+
+.main-header img {
+/* Implementation of the main image (image of the white "Achieve" character)*/
+}
+
+.about {
+
+
+
+}
+.with-border{
+  border-bottom:solid gainsboro 100px;
+}
+
+/* from here */
+.function {
+  display: inline;
+}
+
+.function-images {
+  display: inline-block;
+
+}
+
+.function-image {display: inline-block;
+}
+/* Here is the implementation of the function part */
+
+footer {
+  background-color: #4D4D4D;
+
+}
